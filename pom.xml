@@ -12,6 +12,7 @@
 	<artifactId>employee-producer-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>employee-producer-service</name>
+	<packaging>war</packaging>
 	<description>project for Spring Boot</description>
 
 	<properties>
